@@ -17,7 +17,16 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    
+    UIBarButtonItem *frontDoorButton = [[UIBarButtonItem alloc] initWithTitle: @"Front Door" style: UIBarButtonItemStyleDone target: self action: @selector (finishTap)];
+    self.navigationItem.rightBarButtonItem = frontDoorButton;
 }
+
+
+-(void) finishTap {
+    [self.navigationController popToRootViewControllerAnimated: YES];
+}
+
 
 
 - (void)didReceiveMemoryWarning {

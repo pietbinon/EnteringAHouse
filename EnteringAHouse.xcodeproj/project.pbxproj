@@ -13,6 +13,20 @@
 		770734CA1E79E41D00558892 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 770734C81E79E41D00558892 /* Main.storyboard */; };
 		770734CC1E79E41D00558892 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 770734CB1E79E41D00558892 /* Assets.xcassets */; };
 		770734CF1E79E41D00558892 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 770734CD1E79E41D00558892 /* LaunchScreen.storyboard */; };
+		770734DB1E7A01EF00558892 /* CoatRoomViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 770734DA1E7A01EF00558892 /* CoatRoomViewController.m */; };
+		770734DE1E7A024E00558892 /* LibraryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 770734DD1E7A024E00558892 /* LibraryViewController.m */; };
+		770734E11E7A026A00558892 /* DiningRoomViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 770734E01E7A026A00558892 /* DiningRoomViewController.m */; };
+		770734E41E7A027E00558892 /* StairsUpViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 770734E31E7A027E00558892 /* StairsUpViewController.m */; };
+		770734E71E7A029200558892 /* SecretPassageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 770734E61E7A029200558892 /* SecretPassageViewController.m */; };
+		770734EA1E7A02A400558892 /* KitchenViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 770734E91E7A02A400558892 /* KitchenViewController.m */; };
+		770734ED1E7A02B300558892 /* BedroomViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 770734EC1E7A02B300558892 /* BedroomViewController.m */; };
+		770734F01E7A02C400558892 /* BathroomViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 770734EF1E7A02C400558892 /* BathroomViewController.m */; };
+		770734F31E7A02D600558892 /* DungeonViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 770734F21E7A02D600558892 /* DungeonViewController.m */; };
+		770734F61E7A02E500558892 /* LaboratoryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 770734F51E7A02E500558892 /* LaboratoryViewController.m */; };
+		770734F91E7A02F700558892 /* MysteriousLakeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 770734F81E7A02F700558892 /* MysteriousLakeViewController.m */; };
+		770734FC1E7A030700558892 /* BackPorchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 770734FB1E7A030700558892 /* BackPorchViewController.m */; };
+		770734FF1E7A031A00558892 /* GeneratorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 770734FE1E7A031A00558892 /* GeneratorViewController.m */; };
+		770735021E7A033200558892 /* CursedChaliceViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 770735011E7A033200558892 /* CursedChaliceViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +40,34 @@
 		770734CB1E79E41D00558892 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		770734CE1E79E41D00558892 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		770734D01E79E41D00558892 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		770734D91E7A01EF00558892 /* CoatRoomViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CoatRoomViewController.h; sourceTree = "<group>"; };
+		770734DA1E7A01EF00558892 /* CoatRoomViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CoatRoomViewController.m; sourceTree = "<group>"; };
+		770734DC1E7A024E00558892 /* LibraryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LibraryViewController.h; sourceTree = "<group>"; };
+		770734DD1E7A024E00558892 /* LibraryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LibraryViewController.m; sourceTree = "<group>"; };
+		770734DF1E7A026A00558892 /* DiningRoomViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DiningRoomViewController.h; sourceTree = "<group>"; };
+		770734E01E7A026A00558892 /* DiningRoomViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DiningRoomViewController.m; sourceTree = "<group>"; };
+		770734E21E7A027E00558892 /* StairsUpViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StairsUpViewController.h; sourceTree = "<group>"; };
+		770734E31E7A027E00558892 /* StairsUpViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StairsUpViewController.m; sourceTree = "<group>"; };
+		770734E51E7A029200558892 /* SecretPassageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecretPassageViewController.h; sourceTree = "<group>"; };
+		770734E61E7A029200558892 /* SecretPassageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecretPassageViewController.m; sourceTree = "<group>"; };
+		770734E81E7A02A400558892 /* KitchenViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KitchenViewController.h; sourceTree = "<group>"; };
+		770734E91E7A02A400558892 /* KitchenViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KitchenViewController.m; sourceTree = "<group>"; };
+		770734EB1E7A02B300558892 /* BedroomViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BedroomViewController.h; sourceTree = "<group>"; };
+		770734EC1E7A02B300558892 /* BedroomViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BedroomViewController.m; sourceTree = "<group>"; };
+		770734EE1E7A02C400558892 /* BathroomViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BathroomViewController.h; sourceTree = "<group>"; };
+		770734EF1E7A02C400558892 /* BathroomViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BathroomViewController.m; sourceTree = "<group>"; };
+		770734F11E7A02D600558892 /* DungeonViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DungeonViewController.h; sourceTree = "<group>"; };
+		770734F21E7A02D600558892 /* DungeonViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DungeonViewController.m; sourceTree = "<group>"; };
+		770734F41E7A02E500558892 /* LaboratoryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LaboratoryViewController.h; sourceTree = "<group>"; };
+		770734F51E7A02E500558892 /* LaboratoryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LaboratoryViewController.m; sourceTree = "<group>"; };
+		770734F71E7A02F700558892 /* MysteriousLakeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MysteriousLakeViewController.h; sourceTree = "<group>"; };
+		770734F81E7A02F700558892 /* MysteriousLakeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MysteriousLakeViewController.m; sourceTree = "<group>"; };
+		770734FA1E7A030700558892 /* BackPorchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BackPorchViewController.h; sourceTree = "<group>"; };
+		770734FB1E7A030700558892 /* BackPorchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BackPorchViewController.m; sourceTree = "<group>"; };
+		770734FD1E7A031A00558892 /* GeneratorViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GeneratorViewController.h; sourceTree = "<group>"; };
+		770734FE1E7A031A00558892 /* GeneratorViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GeneratorViewController.m; sourceTree = "<group>"; };
+		770735001E7A033200558892 /* CursedChaliceViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CursedChaliceViewController.h; sourceTree = "<group>"; };
+		770735011E7A033200558892 /* CursedChaliceViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CursedChaliceViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +109,34 @@
 				770734CD1E79E41D00558892 /* LaunchScreen.storyboard */,
 				770734D01E79E41D00558892 /* Info.plist */,
 				770734BF1E79E41D00558892 /* Supporting Files */,
+				770734D91E7A01EF00558892 /* CoatRoomViewController.h */,
+				770734DA1E7A01EF00558892 /* CoatRoomViewController.m */,
+				770734DC1E7A024E00558892 /* LibraryViewController.h */,
+				770734DD1E7A024E00558892 /* LibraryViewController.m */,
+				770734DF1E7A026A00558892 /* DiningRoomViewController.h */,
+				770734E01E7A026A00558892 /* DiningRoomViewController.m */,
+				770734E21E7A027E00558892 /* StairsUpViewController.h */,
+				770734E31E7A027E00558892 /* StairsUpViewController.m */,
+				770734E51E7A029200558892 /* SecretPassageViewController.h */,
+				770734E61E7A029200558892 /* SecretPassageViewController.m */,
+				770734E81E7A02A400558892 /* KitchenViewController.h */,
+				770734E91E7A02A400558892 /* KitchenViewController.m */,
+				770734EB1E7A02B300558892 /* BedroomViewController.h */,
+				770734EC1E7A02B300558892 /* BedroomViewController.m */,
+				770734EE1E7A02C400558892 /* BathroomViewController.h */,
+				770734EF1E7A02C400558892 /* BathroomViewController.m */,
+				770734F11E7A02D600558892 /* DungeonViewController.h */,
+				770734F21E7A02D600558892 /* DungeonViewController.m */,
+				770734F41E7A02E500558892 /* LaboratoryViewController.h */,
+				770734F51E7A02E500558892 /* LaboratoryViewController.m */,
+				770734F71E7A02F700558892 /* MysteriousLakeViewController.h */,
+				770734F81E7A02F700558892 /* MysteriousLakeViewController.m */,
+				770734FA1E7A030700558892 /* BackPorchViewController.h */,
+				770734FB1E7A030700558892 /* BackPorchViewController.m */,
+				770734FD1E7A031A00558892 /* GeneratorViewController.h */,
+				770734FE1E7A031A00558892 /* GeneratorViewController.m */,
+				770735001E7A033200558892 /* CursedChaliceViewController.h */,
+				770735011E7A033200558892 /* CursedChaliceViewController.m */,
 			);
 			path = EnteringAHouse;
 			sourceTree = "<group>";
@@ -150,9 +220,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				770734DE1E7A024E00558892 /* LibraryViewController.m in Sources */,
+				770734E71E7A029200558892 /* SecretPassageViewController.m in Sources */,
 				770734C71E79E41D00558892 /* ViewController.m in Sources */,
+				770734FC1E7A030700558892 /* BackPorchViewController.m in Sources */,
 				770734C41E79E41D00558892 /* AppDelegate.m in Sources */,
+				770734F01E7A02C400558892 /* BathroomViewController.m in Sources */,
+				770734F61E7A02E500558892 /* LaboratoryViewController.m in Sources */,
+				770734E41E7A027E00558892 /* StairsUpViewController.m in Sources */,
+				770734F91E7A02F700558892 /* MysteriousLakeViewController.m in Sources */,
+				770734DB1E7A01EF00558892 /* CoatRoomViewController.m in Sources */,
+				770734FF1E7A031A00558892 /* GeneratorViewController.m in Sources */,
+				770734EA1E7A02A400558892 /* KitchenViewController.m in Sources */,
+				770734E11E7A026A00558892 /* DiningRoomViewController.m in Sources */,
+				770734F31E7A02D600558892 /* DungeonViewController.m in Sources */,
 				770734C11E79E41D00558892 /* main.m in Sources */,
+				770735021E7A033200558892 /* CursedChaliceViewController.m in Sources */,
+				770734ED1E7A02B300558892 /* BedroomViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
